@@ -1,6 +1,6 @@
-# Movie Box
+# Simple Vue.js calculator
 
-## Movie Box - это Vue приложение, которое загружает данные через API The Movie Database (TMDb).
+## Simple Vue.js calculator - это Vue приложение, которое способно производить простые вычисления.
 ![](Demo.png)
 
 ## Установка
